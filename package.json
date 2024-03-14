@@ -1,0 +1,25 @@
+{
+  "name": "localizationlibrarynata",
+  "version": "1.1.0",
+  "description": "bynataliya",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/light-angel90/localizationlibrarynata.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "NataliyaNahirna",
+  "license": "MIT",
+  "dependencies": {
+    "imagecarouselnata": "^1.1.0",
+    "imageprocessingutilitiesnata": "^1.0.0",
+    "localizationlibrarynata": "^1.0.2"
+  }
+}
