@@ -1,5 +1,5 @@
 # Localization Library
-# The best project in Tea
+# The best project in Tea.xyz
 
 A simple JavaScript library for managing localization in your web applications.
 
